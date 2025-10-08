@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ4ZTQ5OTRmZWZlN2NmMDA1NDViZTYxNjU2YjIwOTYzN2YwZDUwMyZjdD1n/f9k1tV7HyORcngKF8v/giphy.gif" width="50px"/> 
-  🎵 BIENVENIDO A  🎵
+  🎵 BIENVENIDO A CATALOGO MUSICAL 🎵
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ4ZTQ5OTRmZWZlN2NmMDA1NDViZTYxNjU2YjIwOTYzN2YwZDUwMyZjdD1n/f9k1tV7HyORcngKF8v/giphy.gif" width="50px"/>
 </h1>
 <h3 align="center">✨ La mejor experiencia musical en tus manos ✨</h3>
@@ -65,7 +65,7 @@
 
 ![Demo App](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 ## 🤝Contribución
-Yesenia Hernandez - 100%
+Yesenia Hernandez - 85%
 
 Omar Maldonado - 100%
 
