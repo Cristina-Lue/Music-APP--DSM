@@ -65,7 +65,7 @@ https://drive.google.com/file/d/1p5XhPMsfg-Sb374yJj0PlRC_vPzSyJP-/view?usp=drive
 
 ![Demo App](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 ## 🤝Contribución
-Yesenia Hernandez - 85%
+Yesenia Hernandez - 75%
 
 Omar Maldonado - 100%
 
