@@ -9,13 +9,14 @@
   <em>"Donde cada línea de código tiene ritmo y cada commit tiene armonía" 🎶</em>
 </p>
 
----
+![Demo App](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/Cristina-Lue/PruebasGit" alt="Último commit"/>
   <img src="https://img.shields.io/github/repo-size/Cristina-Lue/PruebasGit" alt="Tamaño del repo"/>
 </p>
 
----
+![Demo App](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 📌 Tabla de Contenidos
 - [🎥 Demo](#-demo)
@@ -24,8 +25,7 @@
 - [🗂️ Estructura del proyecto](#️-estructura-del-proyecto)
 
 
----
-
+![Demo App](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 ## 🎥 Demo
 
 <p align="center">
@@ -33,8 +33,8 @@
 </p>
 
 > 🔥 *Interfaz con animaciones fluidas y tiempos de carga optimizados*
-
----
+> 
+![Demo App](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 👥 Equipo de desarrollo
 
@@ -67,7 +67,7 @@
   </tr>
 </table>
 
----
+![Demo App](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 ## 🤝Contribución
 Yesenia Hernandez - 100%
 
@@ -75,14 +75,7 @@ Omar Maldonado - 100%
 
 Cristina - 100%
 
-## 🗂️ Estructura del proyecto
 
-APP/
-├── .example/                  
-├── example/                 
-│   ├── example2/              
-│   └── example1/             
-├── example/         
 
----
+
 
