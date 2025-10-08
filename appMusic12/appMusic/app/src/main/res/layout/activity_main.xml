@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg_gradient"
+    android:padding="20dp">
+
+    <com.google.android.material.appbar.MaterialToolbar
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:backgroundTint="@color/primary"
+        app:title="Catálogo Musical"
+        app:titleTextColor="@color/white"
+        app:navigationIcon="@drawable/ic_round_music_note_24" />
+
+    <EditText
+        android:id="@+id/editTextBuscar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/hint_buscar"
+        android:drawableStart="@android:drawable/ic_menu_search"
+        android:padding="12dp"
+        android:background="@drawable/edittext_background"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="20dp" />
+
+    <Button
+        android:id="@+id/botonArtistas"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="@string/boton_artistas"
+        android:textSize="18sp"
+        android:background="@drawable/rounded_button"
+        android:textColor="@color/white"
+        android:layout_marginBottom="15dp" />
+
+    <Button
+        android:id="@+id/botonAlbumes"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="@string/boton_albumes"
+        android:textSize="18sp"
+        android:background="@drawable/rounded_button"
+        android:textColor="@color/white"
+        android:layout_marginBottom="15dp" />
+
+    <Button
+        android:id="@+id/botonCanciones"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="@string/boton_canciones"
+        android:textSize="18sp"
+        android:background="@drawable/rounded_button"
+        android:textColor="@color/white" />
+
+</LinearLayout>

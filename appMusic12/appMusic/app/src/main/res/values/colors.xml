@@ -1,0 +1,9 @@
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="primary">#4ECDC4</color>
+    <color name="primaryDark">#1A535C</color>
+    <color name="accent">#FF6B6B</color>
+    <color name="backgroundGradientStart">#F7FFF7</color>
+    <color name="backgroundGradientEnd">#E0F7FA</color>
+</resources>

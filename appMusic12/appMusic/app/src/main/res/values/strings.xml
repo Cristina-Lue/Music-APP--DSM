@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">appMusic</string>
+
+
+
+
+    <string name="titulo_menu">Catálogo Musical</string>
+    <string name="hint_buscar">Buscar canciones, álbumes, artistas...</string>
+    <string name="boton_artistas">Artistas</string>
+    <string name="boton_albumes">Álbumes</string>
+    <string name="boton_canciones">Canciones</string>
+
+
+
+
+    <string name="titulo_artistas">Artistas</string>
+    <string name="titulo_albumes">Álbumes</string>
+    <string name="titulo_canciones">Canciones</string>
+
+
+
+
+    <string name="genero">Género: %s</string>
+    <string name="año">Año: %d</string>
+    <string name="artista">Artista: %s</string>
+    <string name="duracion">Duración: %d segundos</string>
+    <string name="album">Álbum: %s</string>
+
+
+
+    <string name="sin_resultados">No se encontraron resultados</string>
+    <string name="volver">Volver</string>
+</resources>

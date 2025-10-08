@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg_gradient">
+
+    <com.google.android.material.appbar.MaterialToolbar
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        app:title="@string/titulo_artistas"
+        android:backgroundTint="@color/primary"
+        app:titleTextColor="@color/white"
+        app:navigationIcon="@drawable/ic_round_person_24" />
+
+    <ListView
+        android:id="@+id/listaArtistas"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="@color/primaryDark"
+        android:dividerHeight="1dp"
+        android:padding="12dp" />
+</LinearLayout>
