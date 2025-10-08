@@ -28,6 +28,7 @@
 https://drive.google.com/file/d/1p5XhPMsfg-Sb374yJj0PlRC_vPzSyJP-/view?usp=drive_link  
 </p>
 
+En la rama video tambien se encuentra la app funcional.
 > 🔥 *Interfaz con animaciones fluidas y tiempos de carga optimizados*
 > 
 ![Demo App](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
